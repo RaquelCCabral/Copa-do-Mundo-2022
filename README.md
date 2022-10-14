@@ -12,3 +12,15 @@ a classificação de cada seleção durante todo a copa com a tabela atualizada 
 que você deseja ter acesso. 
 
 <label> ⚽ Uso da página: 
+
+<li> Inicialmente você receberá a página com os placares em branco, para preenchê-las durante a copa, como mostra a imagem abaixo:
+
+<p><img src = 'Imagens Copa do Mundo 2022/Copa do Mundo 2022.png'>
+
+<li> Conforme você for adicionando novos placares e salvando, as tabelas dos grupos vão atualizando:
+
+<p><img src = 'Imagens Copa do Mundo 2022/Copa do Mundo 2022 Tabelas.png'>
+
+<li> No final da página já estará previamente separado cada jogo da fase eliminatória e ao atualizar os placares, novos jogos serão revelados:
+
+<p><img src = 'Imagens Copa do Mundo 2022/Copa do Mundo 2022 Eliminatórias.png'>
