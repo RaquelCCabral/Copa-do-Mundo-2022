@@ -13,9 +13,15 @@ que você deseja ter acesso.
 
 <label> ⚽ Uso da página: 
 
-<li> Inicialmente você receberá a página com os placares em branco, para preenchê-las durante a copa, como mostra a imagem abaixo:
+<li> Inicialmente você receberá a página com os placares em branco, para preenchê-las durante a copa:
 
 <p><img src = 'Imagens Copa do Mundo 2022/Copa do Mundo 2022.png'>
+
+<li> Botão salvar: quando abrir a página de novo os dados vão permanecer
+<li> Botão limpar: apaga todos os dados (fase de grupos e eliminatórias), caso queira alterar um placar específico basta editar o que já estava salvo e salvar novamente
+<li> Botão atualizar: salva a fase eliminatória somente
+
+<p><img src = 'Imagens Copa do Mundo 2022/Copa do Mundo 2022 Tabelas Vazias.png'>
 
 <li> Conforme você for adicionando novos placares e salvando, as tabelas dos grupos vão atualizando:
 
