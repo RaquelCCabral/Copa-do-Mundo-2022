@@ -2,8 +2,8 @@
 
 <label> ⚽ Descrição:
 
-<p> Página criada para que os usuários acompanhem ativamente a Copa do Mundo 2022 preenchendo e atualizando os placares dos jogos da fase de grupo, podendo acompanhar
-a classificação de cada seleção durante todo o processo com a tabela atualizada e por fim preencher e atualizar a fase eliminatória 
+<p> Página criada para que os usuários acompanhem ativamente a Copa do Mundo 2022 preenchendo e atualizando os placares dos jogos da fase de grupos, podendo acompanhar
+a classificação de cada seleção durante todo a copa com a tabela atualizada e por fim preencher e atualizar a fase eliminatória 
 
 <label> ⚽ Instalação e Execução:
 
