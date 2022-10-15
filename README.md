@@ -1,6 +1,6 @@
 # Copa do Mundo 2022
 
-![](https://img.shields.io/github/repo-size/RaquelCCabral/Copa-do-Mundo-2022?color=red) ![](https://img.shields.io/github/size/RaquelCCabral/Copa-do-Mundo-2022/index.html?style=flat)
+![](https://img.shields.io/github/repo-size/RaquelCCabral/Copa-do-Mundo-2022?color=red) ![](https://img.shields.io/github/size/RaquelCCabral/Copa-do-Mundo-2022/index.html?style=flat) ![](https://img.shields.io/github/license/RaquelCCabral/Copa-do-Mundo-2022)
 
 <label> ⚽ Descrição:
 
@@ -33,7 +33,12 @@ que você deseja ter acesso. Depois, basta clicar no arquivo 'index.html'.
 <li> No final da página já estará previamente separado cada jogo da fase eliminatória e ao atualizar os placares, novos jogos serão revelados:
 
 <p><img src = 'Imagens Copa do Mundo 2022/Copa do Mundo 2022 Eliminatórias.png'>
- 
+
+<label> ⚽ Licença:
+
+<p> Este projeto está sob a licença MIT
+
+<label> ⚽ Ferramentas Utilizadas:
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
