@@ -1,5 +1,7 @@
 # Copa do Mundo 2022
 
+![](https://img.shields.io/github/repo-size/RaquelCCabral/Copa-do-Mundo-2022?color=red) ![](https://img.shields.io/github/size/RaquelCCabral/Copa-do-Mundo-2022/index.html?style=flat)
+
 <label> ⚽ Descrição:
 
 <p> Página criada para que os usuários acompanhem ativamente a Copa do Mundo 2022 preenchendo e atualizando os placares dos jogos da fase de grupos, podendo acompanhar
