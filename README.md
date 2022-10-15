@@ -1,5 +1,7 @@
 # Copa do Mundo 2022
 
+<a href="https://github.com/RaquelCCabral/Copa-do-Mundo-2022/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/-Download-%230077B5?style=for-the-badgelogoColor=white" target="_blank"></a>
+
 ![](https://img.shields.io/github/repo-size/RaquelCCabral/Copa-do-Mundo-2022?color=red) ![](https://img.shields.io/github/size/RaquelCCabral/Copa-do-Mundo-2022/index.html?style=flat)
 
 <label> ⚽ Descrição:
