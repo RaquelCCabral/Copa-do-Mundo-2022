@@ -1,5 +1,6 @@
 # Copa do Mundo 2022
 
+[![Open in Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://open.vscode.dev/RaquelCCabral/Copa-do-Mundo-2022)
 ![](https://img.shields.io/github/repo-size/RaquelCCabral/Copa-do-Mundo-2022?color=red) ![](https://img.shields.io/github/size/RaquelCCabral/Copa-do-Mundo-2022/index.html?style=flat)
 
 <label> ⚽ Descrição:
